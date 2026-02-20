@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+google-search-results
+python-dotenv
+crawl4ai
+google-generativeai
+firecrawl-py
+aiosqlite

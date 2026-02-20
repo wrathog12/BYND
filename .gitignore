@@ -1,0 +1,45 @@
+# ── Virtual Environments ──────────────────────────
+one/
+venv/
+.venv/
+
+# ── Environment Variables ─────────────────────────
+.env
+backend/.env
+
+# ── Node Modules ──────────────────────────────────
+node_modules/
+frontend/Intern/node_modules/
+
+# ── Python Cache ──────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# ── Database (auto-generated) ─────────────────────
+backend/data/bynd_news.db
+
+# ── Empty / Unused Directories ────────────────────
+backend/app/api/
+backend/app/core/
+backend/app/schemas/
+
+# ── Build Artifacts ───────────────────────────────
+dist/
+build/
+*.log
+
+# ── IDE / Editor ──────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── OS Files ──────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Diagnostic Scripts ────────────────────────────
+backend/check_db.py

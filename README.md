@@ -10,7 +10,7 @@
 
 > **Intelligent, real-time AI industry news aggregation** — Discover, classify, scrape, summarize, and serve the most lucrative AI business intelligence, all from a single click.
 
-BYND Intelligence is a full-stack pipeline that monitors the AI landscape across **5 major companies** (OpenAI, Anthropic, Google DeepMind, Microsoft, Meta), filters noise from signal using Gemini 2.5 Flash, and delivers concise 30-40 word summaries through a polished React dashboard.
+BYND Intelligence is a full-stack pipeline that monitors the AI landscape across **5 major companies** (OpenAI, Anthropic, Google DeepMind, Microsoft, Meta), filters noise from signal using Gemini 2.5 Flash, and delivers concise 30-40 word summaries through a polished React dashboard.Along with  new Firecrawl Support now.
 
 ---
 
